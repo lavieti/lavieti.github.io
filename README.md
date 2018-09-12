@@ -1,7 +1,7 @@
 # lavieti.github.io
-personal blog built with hexo
 
 To Professor Xu:
+
 0.the FC2017 is the paper I published in the Frontier Computing 2017 as the first author.
 1.the xiamen-univerisity-master is a website I made for my school, I use html+css+js to compelete it.
 2.the flappybird.zip is a 2d game I made by using plamaker plugin and Unity3d, the method I used is different from the work on other websites.
