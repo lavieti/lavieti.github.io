@@ -1,6 +1,6 @@
 # lavieti.github.io
 
-To Professor Xu:
+HI:
 
 0.the FC2017 is the paper I published in the Frontier Computing 2017 as the first author.
 
