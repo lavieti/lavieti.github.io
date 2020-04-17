@@ -13,4 +13,4 @@ HI:
 4.the lollygagger-cardborad.zip is a project I shared in google developer conference, in which I use google cardboard and 
 lollygagger game to realize the effect of virtual reality
 
-5.the portfilo.pdf is my portfilo as it named.
+5.the portfolio_compressed.pdf is my portfolio as it named.
